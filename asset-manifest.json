@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/visiomap/static/js/main.b407aaec.js",
+    "static/js/453.31c40ded.chunk.js": "/visiomap/static/js/453.31c40ded.chunk.js",
+    "index.html": "/visiomap/index.html",
+    "main.b407aaec.js.map": "/visiomap/static/js/main.b407aaec.js.map",
+    "453.31c40ded.chunk.js.map": "/visiomap/static/js/453.31c40ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b407aaec.js"
+  ]
+}
