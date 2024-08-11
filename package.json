@@ -19,6 +19,7 @@
     "lodash": "^4.17.21",
     "mobx": "^6.13.1",
     "mobx-react-lite": "^4.0.7",
+    "node-sass": "^9.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
